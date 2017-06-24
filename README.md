@@ -22,3 +22,22 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+markdown notes:
+
+_italics_
+
+*bold*
+
+> this is a blockquote
+
+### H3 title
+
+- not sure on this one until it gets converted
+
+```ruby
+def my_great_method
+    puts "here it is"
+end
+```
+
